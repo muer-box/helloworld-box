@@ -1,0 +1,21 @@
+lib: [
+  "_build/install/default/lib/scilla-checkers/META" {"META"}
+  "_build/install/default/lib/scilla-checkers/PatternChecker.cmi" {"PatternChecker.cmi"}
+  "_build/install/default/lib/scilla-checkers/PatternChecker.cmt" {"PatternChecker.cmt"}
+  "_build/install/default/lib/scilla-checkers/PatternChecker.cmx" {"PatternChecker.cmx"}
+  "_build/install/default/lib/scilla-checkers/PatternChecker.ml" {"PatternChecker.ml"}
+  "_build/install/default/lib/scilla-checkers/SanityChecker.cmi" {"SanityChecker.cmi"}
+  "_build/install/default/lib/scilla-checkers/SanityChecker.cmt" {"SanityChecker.cmt"}
+  "_build/install/default/lib/scilla-checkers/SanityChecker.cmx" {"SanityChecker.cmx"}
+  "_build/install/default/lib/scilla-checkers/SanityChecker.ml" {"SanityChecker.ml"}
+  "_build/install/default/lib/scilla-checkers/opam" {"opam"}
+  "_build/install/default/lib/scilla-checkers/scilla-checkers.dune" {"scilla-checkers.dune"}
+  "_build/install/default/lib/scilla-checkers/scilla_checkers.a" {"scilla_checkers.a"}
+  "_build/install/default/lib/scilla-checkers/scilla_checkers.cma" {"scilla_checkers.cma"}
+  "_build/install/default/lib/scilla-checkers/scilla_checkers.cmxa" {"scilla_checkers.cmxa"}
+  "_build/install/default/lib/scilla-checkers/scilla_checkers.cmxs" {"scilla_checkers.cmxs"}
+]
+doc: [
+  "_build/install/default/doc/scilla-checkers/LICENSE"
+  "_build/install/default/doc/scilla-checkers/README.md"
+]

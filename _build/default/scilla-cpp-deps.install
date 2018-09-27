@@ -1,0 +1,23 @@
+lib: [
+  "_build/install/default/lib/scilla-cpp-deps/META" {"META"}
+  "_build/install/default/lib/scilla-cpp-deps/libscilla_cpp_deps_stubs.a" {"libscilla_cpp_deps_stubs.a"}
+  "_build/install/default/lib/scilla-cpp-deps/opam" {"opam"}
+  "_build/install/default/lib/scilla-cpp-deps/schnorr.cmi" {"schnorr.cmi"}
+  "_build/install/default/lib/scilla-cpp-deps/schnorr.cmt" {"schnorr.cmt"}
+  "_build/install/default/lib/scilla-cpp-deps/schnorr.cmti" {"schnorr.cmti"}
+  "_build/install/default/lib/scilla-cpp-deps/schnorr.cmx" {"schnorr.cmx"}
+  "_build/install/default/lib/scilla-cpp-deps/schnorr.ml" {"schnorr.ml"}
+  "_build/install/default/lib/scilla-cpp-deps/schnorr.mli" {"schnorr.mli"}
+  "_build/install/default/lib/scilla-cpp-deps/scilla-cpp-deps.dune" {"scilla-cpp-deps.dune"}
+  "_build/install/default/lib/scilla-cpp-deps/scilla_cpp_deps.a" {"scilla_cpp_deps.a"}
+  "_build/install/default/lib/scilla-cpp-deps/scilla_cpp_deps.cma" {"scilla_cpp_deps.cma"}
+  "_build/install/default/lib/scilla-cpp-deps/scilla_cpp_deps.cmxa" {"scilla_cpp_deps.cmxa"}
+  "_build/install/default/lib/scilla-cpp-deps/scilla_cpp_deps.cmxs" {"scilla_cpp_deps.cmxs"}
+]
+doc: [
+  "_build/install/default/doc/scilla-cpp-deps/LICENSE"
+  "_build/install/default/doc/scilla-cpp-deps/README.md"
+]
+stublibs: [
+  "_build/install/default/lib/stublibs/dllscilla_cpp_deps_stubs.so"
+]

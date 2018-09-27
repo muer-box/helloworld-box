@@ -1,0 +1,11 @@
+lib: [
+  "_build/install/default/lib/testsuite/META" {"META"}
+  "_build/install/default/lib/testsuite/opam" {"opam"}
+]
+bin: [
+  "_build/install/default/bin/testsuite" {"testsuite"}
+]
+doc: [
+  "_build/install/default/doc/testsuite/LICENSE"
+  "_build/install/default/doc/testsuite/README.md"
+]

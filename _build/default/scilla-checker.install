@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/scilla-checker/META" {"META"}
+  "_build/install/default/lib/scilla-checker/opam" {"opam"}
+]
+doc: [
+  "_build/install/default/doc/scilla-checker/LICENSE"
+  "_build/install/default/doc/scilla-checker/README.md"
+]
