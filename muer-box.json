@@ -5,7 +5,7 @@
   ],
   "commands": {
     "Compile contracts": "muer compile",
-    "Migrate contracts": "muer migrate",
+    "Deploy contracts": "muer deploy",
     "Test contracts": "muer test"
   },
   "hooks": {
